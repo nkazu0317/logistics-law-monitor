@@ -48,12 +48,8 @@ jobs:
       
       - name: 依存関係をインストール
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
           python -m pip install --upgrade pip
           pip install anthropic requests pyyaml
-          
       
       - name: 監視スクリプトを実行
         env:
