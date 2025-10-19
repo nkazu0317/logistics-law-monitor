@@ -19,15 +19,37 @@ jobs:
         with:
           fetch-depth: 0
       
+      - name: ファイル構成を確認（デバッグ用）
+        run: |
+          echo "=== カレントディレクトリ ==="
+          pwd
+          echo ""
+          echo "=== ルートディレクトリのファイル一覧 ==="
+          ls -la
+          echo ""
+          echo "=== requirements.txt の存在確認 ==="
+          if [ -f requirements.txt ]; then
+            echo "✅ requirements.txt が見つかりました"
+            echo "=== 内容 ==="
+            cat requirements.txt
+          else
+            echo "❌ requirements.txt が見つかりません"
+            echo "=== ツリー構造 ==="
+            find . -name "requirements.txt" -o -name "*.txt" | head -20
+          fi
+          echo ""
+          echo "=== scriptsディレクトリの確認 ==="
+          ls -la scripts/ || echo "scriptsディレクトリが見つかりません"
+      
       - name: Python環境をセットアップ
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
       
       - name: 依存関係をインストール
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install anthropic requests pyyaml
       
       - name: 監視スクリプトを実行
         env:
