@@ -1,6 +1,6 @@
 # 物流効率化法 監視レポート
 
-**最終更新**: 2026年01月26日 02:34:29  
+**最終更新**: 2026年01月27日 02:30:04  
 **対象URL**: [https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000029.html](https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000029.html)
 
 ---
