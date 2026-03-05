@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>ç©æµã»èªåè»ï¼ç©æµå¹çåæ³ãé¢ä¿æ¿çä»¤ - å½åäº¤éç</title>
+<meta name="keywords" content="å½åäº¤éç,Ministry of Land, Infrastructure, Transport and Toursim" />
+<meta name="description" content="å½åäº¤éçã®ã¦ã§ããµã¤ãã§ããæ¿ç­ãå ±éçºè¡¨è³æãçµ±è¨æå ±ãåç¨®ç³è«æç¶ãã«é¢ããæå ±ãªã©ãæ²è¼ãã¦ãã¾ãã" />
+<meta name="copyright" content="(C) Copyright MLIT Japan. All Rights Reserved. " />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/com/17_cmn_layout.css" media="all and (min-width : 769px)" />
+<link rel="stylesheet" type="text/css" href="/com/pc_layout.css" media="all and (min-width : 769px)" />
+<link rel="stylesheet" type="text/css" href="/com/sp_layout.css" media="all and (max-width : 768px)" />
+<link rel="stylesheet" type="text/css" href="/com/17_cmn_style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/aly.css" media="all" />
+<script type="text/javascript" src="/com/13_jquery.js"></script>
+<script type="text/javascript" src="/com/17_header.js"></script>
+<script type="text/javascript" src="/com/17_footer.js"></script>
+<script type="text/javascript" src="/com/13_common.js"></script>
+<script type="text/javascript" src="/com/13_flatheights.js"></script>
+<script type="text/javascript" src="/com/13_bukyokuImageChange.js"></script>
+<script type="text/javascript" src="/com/13_minmax.js"></script>
+<script type="text/javascript" src="/com/sp_common.js"></script>
+</head>
+<body id="gDef" class="lDef" onload="javascript:bukyokuImageChange('','','','/common/000000030.gif');">
+<!-- wrapper start --><div id="wrapper">
+
+
+<!-- #header start -->
+<script type="text/javascript">header();</script>
+<!-- #header end -->
+
+
+<!-- .pageTitle01 start --><div class="pageTitle01" id="bukyoku">
+<h1><img src="/common/000235842.gif" alt="ç©æµã»èªåè»" /></h1>
+<!-- .pageTitle01 end --></div>
+
+
+
+
+<!-- #breadcrumb start --><div id="breadcrumb">
+<ul>
+<li class="home"><a href="/index_old.html">ãã¼ã </a></li>
+<li><span class="arrow">&gt;</span><a href="/policy/index.html">æ¿ç­ã»ä»äº</a></li>
+<li><span class="arrow">&gt;</span><a href="/jidosha/index.html">ç©æµã»èªåè»</a></li>
+<li><span class="arrow">&gt;</span>ç©æµå¹çåæ³ãé¢ä¿æ¿çä»¤</li>
+</ul>
+<!-- #breadcrumb end --></div>
+
+
+<!-- #contents start --><div id="contents">
+<!-- #twoColumnWrapL start --><div id="twoColumnWrapL">
+<!-- #twoColumnWrapR start --><div id="twoColumnWrapR">
+<!-- #contentsColumnWrapC start --><div id="contentsColumnWrapC">
+
+
+<!-- ä¸­ã³ã³ãã³ã -->
+<!-- .section start --><div class="section">
+
+<div class="titleType01">
+<div class="titleInner">
+<h2 class="title">ç©æµå¹çåæ³é¢ä¿æ¿çä»¤ã»åç¤ºç­ã«ã¤ãã¦</h2>
+<!-- /titleInner --></div>
+<!-- /titleType0X --></div>
+<!-- .section start --><div class="section">
+<ul class="linkArrowList02 mb10">
+</ul>
+<!-- .section end --></div>
+
+<!-- .section start --><div class="section">
+
+
+<p class="mb10">ãã¡ãã¯æ¹æ­£ç©æµå¹çåæ³ã®è¦å¶çæªç½®ã«é¢ããé¢ä¿æ¿çä»¤ã»åç¤ºç­ãæ²è¼ãããã¼ã¸ã¨ãªãã¾ãã<br>
+æ½è¡åå®¹ã®æ¦è¦ãäºæ¥­èã¨ãã¦å¯¾å¿ãã¹ãäºé ãã¾ã¨ãããã¼ã¸ã¯<a href="https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000034.html">ãã¡ã</a>ã«ãªãã¾ãã®ã§ãåããã¦ãè¦§ãã ããã</p>
+
+<div class="titleType08">
+<div class="titleInner">
+<h2 class="title">æ¿çä»¤ã»åç¤ºç­ä¸è¦§</h2>
+<!-- /titleInner --></div>
+<!-- /titleType08 --></div>
+
+<p class="mb10">æ¹æ­£ç©æµå¹çåæ³ã«é¢ä¿ããæ¿çä»¤ã»åç¤ºã«ã¤ãã¦æ²è¼ãã¦ãã¾ãã<br>
+ï¼[1]ï½[7]ã¯ä»¤åï¼å¹´ï¼æï¼æ¥æ½è¡ã[8]ï½[10]ã¯ä»¤åï¼å¹´ï¼æï¼æ¥æ½è¡åå®¹ã«é¢ãããã®ã§ããã<br>
+ã[11]ã¯ä»¤åï¼å¹´ï¼æï¼æ¥æ½è¡ã¨ãªãã¾ããï¼</p>
+
+<ul class="linkArrowList01 mb10">
+<li><a href="/seisakutokatsu/freight/content/001865153.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[1]ãè¦ç¶±ãæ¡æã»çç±ãåç§æ¡æãæ³å¾è¦ç¶±ãæµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®æ½è¡ææ¥ãå®ããæ¿ä»¤(PDFå½¢å¼:264KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865154.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[2]ãè¦ç¶±ãæ¡æã»çç±ãæ°æ§ãåç§æ¡æãæµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã® æ½è¡ã«ä¼´ãé¢ä¿æ¿ä»¤ã®æ´åç­ã«é¢ããæ¿ä»¤(PDFå½¢å¼:542KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865155.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[3]å½åäº¤éçé¢ä¿æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾æ½è¡è¦ååã³ç¬ç«è¡æ¿æ³äººééå»ºè¨­ã»éè¼¸æ½è¨­æ´åæ¯æ´æ©æ§ã«é¢ããçä»¤ã®ä¸é¨ãæ¹æ­£ããçä»¤(PDFå½¢å¼:168KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865156.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[4]è²¨ç©èªåè»ééäºæ¥­èç­ã®è²¨ç©èªåè»ééå½¹åã®æç¶å¯è½ãªæä¾ã®ç¢ºä¿ã«è³ããéè»¢èã®ééåã³è·å½¹ç­ã®å¹çåã«é¢ããå¤æ­ã®åºæºã¨ãªãã¹ãäºé ãå®ããçä»¤(PDFå½¢å¼:134KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865157.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[5]è²¨ç©èªåè»é¢é£äºæ¥­èã®è²¨ç©èªåè»ééå½¹åã®æç¶å¯è½ãªæä¾ã®ç¢ºä¿ã«è³ããéè»¢èã®ééåã³è·å½¹ç­ã®å¹çåã«é¢ããå¤æ­ã®åºæºã¨ãªãã¹ãäºé ãå®ããçä»¤(PDFå½¢å¼:150KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865158.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[6]è·ä¸»ã®è²¨ç©èªåè»ééå½¹åã®æç¶å¯è½ãªæä¾ã®ç¢ºä¿ã«è³ããéè»¢èã®ééåã³è·å½¹ç­ã®å¹çåã«é¢ããå¤æ­ã®åºæºã¨ãªãã¹ãäºé ãå®ããçä»¤(PDFå½¢å¼:228KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001865159.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[7]è²¨ç©èªåè»ééå½¹åã®æç¶å¯è½ãªæä¾ã®ç¢ºä¿ã«è³ããéè»¢èã®ééåã³è·å½¹ç­ã®å¹çåã®æ¨é²ã«é¢ããåºæ¬çãªæ¹é(PDFå½¢å¼:300KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001984995.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[8]æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®ä¸é¨ã®æ½è¡ã«ä¼´ãé¢ä¿æ¿ä»¤ã®æ´åã«é¢ããæ¿ä»¤(PDFå½¢å¼:464KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/250829_ninushi.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[9]ç©è³ã®æµéã®å¹çåã«é¢ããæ³å¾ã®è¦å®ã«åºã¥ãè·ä¸»ã«ä¿ãå±åºç­ã«é¢ããå½ä»¤(PDFå½¢å¼:991KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001909966.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[10]æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®ä¸é¨ã®æ½è¡ã«ä¼´ãå½åäº¤éçé¢ä¿çä»¤ã®æ´åç­ã«é¢ããçä»¤(PDFå½¢å¼:1.5MB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="/seisakutokatsu/freight/content/001913144.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">[11]æµéæ¥­åç·åå¹çåäºæ¥­ã®å®æ½ã«é¢ããåºæ¬çãªæ¹éã®å¤æ´ã«ã¤ãã¦(PDFå½¢å¼:116KB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<!-- /linkArrowList01 --></ul>
+<td></td>
+<!-- .section end --></div>
+<!-- .section start --><div class="section">
+<div class="titleType04">
+<div class="titleInner">
+<h2 class="title">ãã®ä»åèæå ±ç­</h2>
+<!-- /titleInner --></div>
+<!-- /titleType0X --></div>
+
+<div class="titleType08">
+<div class="titleInner">
+<h2 class="title">åç¨®ãªã¼ãã¬ããç­</h2>
+<!-- /titleInner --></div>
+<!-- /titleType08 --></div>
+
+
+<ul class="linkArrowList01 mb10">
+<li><a href="/seisakutokatsu/freight/content/001984891.pdf" target="_blank" title="å¥ã¦ã£ã³ãã¦ã§éã">æ¹æ­£æ³ãã³ãã¬ãã(PDFå½¢å¼:1.5MB)<img src="/common/000235506.gif" alt="" class="fileIcon"></a></li>
+<li><a href="https://www.revised-logistics-act-portal.mlit.go.jp/files/pdf/revised-logistics-act-book.pdf" target="_blank">ç©æµå¹çåæ³æ¹æ­£ãã¤ã³ãã®åå­ï¼ãã¼ã¿ã«ãµã¤ãã¸ï¼ <img src="/common/000235495.gif" alt="å¥ã¦ã£ã³ãã¦ã§éã" class="fileIcon"></a></li>
+<!-- /linkArrowList01 --></ul>
+<div class="titleType08">
+<div class="titleInner">
+<h2 class="title">ãªã³ã¯é</h2>
+<!-- /titleInner --></div>
+<!-- /titleType08 --></div>
+
+<p class="mb10"><ul class="undefined">
+	<li><a href="https://www.meti.go.jp/policy/economy/distribution/butsuryu-kouritsuka.html">ç©æµå¹çåæ³ã«ã¤ãã¦ ï¼METI/çµæ¸ç£æ¥­çï¼</a>ï¼çµæ¸ç£æ¥­çHPï¼</li>
+	<li><a href="https://www.maff.go.jp/j/shokusan/ryutu/250327.html">ç©æµå¹çåæ³ã«ã¤ãã¦ï¼è¾²ææ°´ç£ç</a>ï¼è¾²ææ°´ç£çHPï¼</li>
+	<li><a href="https://www.mlit.go.jp/jidosha/jidosha_mn4_000014.html">æ¹æ­£è²¨ç©èªåè»ééäºæ¥­æ³ï¼ä»¤åï¼å¹´ï¼æï¼æ¥æ½è¡ï¼ã«ã¤ãã¦&nbsp;</a>ï¼å®ééä½å¶ç®¡çç°¿ãå¥ç´æ¸é¢åé¢ä¿ã¯ãã¡ãï¼</li>
+	<li><a href="https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000023.html">æç¶å¯è½ãªç©æµã®å®ç¾ã«åããæ¤è¨ä¼</a>ï¼ä»¤åï¼å¹´ï¼æï½ä»¤åï¼å¹´ï¼æï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/tokatsu01_hh_000747.html">ãæµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾æ¡ããé£è­°æ±ºå®ã2024å¹´ï¼æ13æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/tokatsu01_hh_000786.html">ãæµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®ä¸é¨ã®æ½è¡ææ¥ãå®ããæ¿ä»¤ããé£è­°æ±ºå®ã2024å¹´ï¼æ24æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/jidosha02_hh_000662.html">ãæµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®ä¸é¨ã®æ½è¡ææ¥ãå®ããæ¿ä»¤ããé£è­°æ±ºå® ã2024å¹´ï¼æ30æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/jidosha04_hh_000317.html">æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®æ½è¡ã«ä¼´ãé¢ä¿æ¿ä»¤ãé£è­°æ±ºå® ï½ç©æµã®ãï¼ï¼ï¼ï¼å¹´åé¡ãã«å¯¾å¿ããããã®ç©æµæ¹æ­£æ³ã®ä¸é¨ãæ½è¡ãã¾ãï½ã2025å¹´ï¼æ28æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/tokatsu01_hh_000854.html">æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã®ä¸é¨ãæ¹æ­£ããæ³å¾ã®æ½è¡ã«ä¼´ãé¢ä¿çä»¤ã»åç¤ºãå¬å¸ããã¾ããã2025å¹´ï¼æ18æ¥ã&nbsp;</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/tokatsu01_hh_000932.html">æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã® ä¸é¨ãæ¹æ­£ããæ³å¾ã®æ½è¡ã«ä¼´ãé¢ä¿æ¿ä»¤ãé£è­°æ±ºå®ã2025å¹´ï¼æï¼æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+	<li><a href="https://www.mlit.go.jp/report/press/tokatsu01_hh_000936.html">æµéæ¥­åã®ç·åååã³å¹çåã®ä¿é²ã«é¢ããæ³å¾åã³è²¨ç©èªåè»ééäºæ¥­æ³ã® ä¸é¨ãæ¹æ­£ããæ³å¾ã®æ½è¡ã«ä¼´ãé¢ä¿çä»¤ãå¬å¸ããã¾ãã ã2025å¹´ï¼æ29æ¥ã</a>ï¼å ±éçºè¡¨ï¼</li>
+</ul>
+</p>
+
+<td></td>
+<!-- .section end --></div>
+
+<td></td>
+
+
+
+
+
+
+<!-- .section end --></div>
+
+
+<!-- #contentsColumnWrapC end --></div>
+<!-- #twoColumnWrapR end --></div>
+<!-- /ä¸­ã³ã³ãã³ã -->
+
+
+<!-- å·¦ã¡ãã¥ã¼ -->
+<!-- #leftColumn start --><div id="leftColumn">
+
+
+
+
+
+
+
+
+<!-- #leftColumn end --></div>
+<!-- #twoColumnWrapL end --></div>
+<!-- /å·¦ã¡ãã¥ã¼ -->
+
+
+<!-- å³ã¡ãã¥ã¼ -->
+<!-- #rightColumn start --><div id="rightColumn">
+
+
+
+
+
+
+<!-- #rightColumn end --></div>
+<!-- /å³ã¡ãã¥ã¼ -->
+
+
+<!-- #contents end --></div>
+
+
+<div id="pageTopWrap">
+<p class="pageTop"><a href="#wrapper"><img src="/common/000235489.gif" width="296" height="28" alt="ãã¼ã¸ã®åé ­ã«æ»ã" /></a></p>
+<!-- /pageTopWrap --></div>
+
+
+<!-- wrapper end --></div>
+<!-- #footer start -->
+<script type="text/javascript">footer();</script>
+<!-- #footer end -->
+
+
+</body>
+</html>
